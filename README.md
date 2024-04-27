@@ -16,5 +16,10 @@ I developed this stock dashboard, to practice R in a simple UI, as a versatile t
   - `Statistical Analysis:` Calculate key statistical metrics such as mean return, standard deviation, skewness, and kurtosis to assess risk and market behavior.
   - `User Interaction:` Receive real-time alerts and messages for enhanced user experience and important usage instructions.
 
+## How to use it?
+  1- Use (https://finance.yahoo.com/) to get the `ticker` of your firm (e.g. AMZN-TSLA-GOOG-NVDA-IBM) <br>
+  2- After you get your ticker, enter your input here (https://iibrahemali.shinyapps.io/Stock-Dashboard/), and press `View` <br>
+  3- Then, apply the changes you want to the chart, and use the specific data range you need <br>
+  4- Moreover, you have the option to access some detailed data and stats  <br> <br>
 
 Feel Free to fork or clone it. 
